@@ -2,5 +2,6 @@
 module.exports = {
     difference: require('./lib/difference'),
     drop: require('./lib/drop'),
-    flattenDeep: require('./lib/flattendeep')
+    flattenDeep: require('./lib/flattendeep'),
+    flattenDepth: require('./lib/flattendepth')
 }

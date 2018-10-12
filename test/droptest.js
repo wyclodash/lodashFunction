@@ -1,5 +1,5 @@
 const assert = require('assert')
-const _=require('../Exlodash')
+const _=require('../index')
 
 describe('test drop', () => {
     it('result should be [2,3]', () => {
