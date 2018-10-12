@@ -1,5 +1,5 @@
 const expect = require('chai').expect
-const _ = require('../Exlodash')
+const _ = require('../index')
 
 const other = _.flattenDeep([1, [2, [3, [4]], 5]])
 
